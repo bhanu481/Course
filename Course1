@@ -1,12 +1,15 @@
-What are the key concepts you learnt from these courses
-You can choose one module from the list below:-
-1)Algorithm Analysis
-2)Divide and Conquer Algorithms
-3)Dynamic Programming
+Bhanu prakash Kondoju
+Exploratory data analysis
+- Data sourcing
+- Data cleaning
+- Univariate analysis
+- Bivariate analysis
+- Derived metrics
 
+Derived metrics:
+Extracting additional information from available dataset and make new column with useful information. example: creating additional column with age bins in national achievement survey dataset.
 
-Pawan Dubey
-Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
-
-
+There are varies methods of extracting derived metrics:
+Type driven metrics: These metrics derived from variable topology example: Grading of students from marks 
+Business driven metrics: Can be created by understanding business requirements example bank account transactions made in month
+Data driven metrics: Can be created from existing data example speed of the vehicle created from distance travelled and time travelled
